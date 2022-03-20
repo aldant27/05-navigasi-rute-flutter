@@ -13,8 +13,9 @@ Prodi :  MI <br/>
 ![Praktikum](img/prak.png)
 <br/>
 
-### 1. Tugas
+### 1. Hasil Tugas
 ![Tugas](img/tugas1.png)
 <br/>
+
 ![Tugas](img/tugas2.png)
 <br/>
