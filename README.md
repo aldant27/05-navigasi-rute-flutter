@@ -1,16 +1,20 @@
-# navigasi
+# Jobsheet 2 Pemrograman Mobile
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Nama : Aldant Yafi Abida <br/>
+NIM : 2031710009 <br/>
+Kelas : MI-2C <br/>
+Prodi :  MI <br/>
 
-A few resources to get you started if this is your first Flutter project:
+## Hasil Praktikum
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 1. Praktikum
+![Praktikum](img/prak.png)
+<br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Tugas
+![Tugas](img/tugas1.png)
+<br/>
+![Tugas](img/tugas2.png)
+<br/>
